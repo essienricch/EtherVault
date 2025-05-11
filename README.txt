@@ -1,6 +1,6 @@
 
-*Deployed Contract Address*: 0x722c8848264F84eCb538906E6Fb4f473F13ff9De  
-*Deployer Address*: 0x1c0afca8071861d75c6b387906d3e02d767cc087  
+##Deployed Contract Address: 0x722c8848264F84eCb538906E6Fb4f473F13ff9De  
+## Deployer Address: 0x1c0afca8071861d75c6b387906d3e02d767cc087  
 
 
 REMIX DEFAULT WORKSPACE
