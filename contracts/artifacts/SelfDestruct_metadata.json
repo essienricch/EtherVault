@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "EtherVaultAddress",
+						"type": "address"
+					}
+				],
+				"name": "destroyEtherVault",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address payable",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SelfDestruct.sol": "SelfDestruct"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SelfDestruct.sol": {
+			"keccak256": "0x218aa31ee0fa2b1f2f7cf07d875d0072da97f1c79389a8cb52ba46f8aed57a7e",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://f69d26e243c1ac42f05a083714654f6ee22d8a954c20e2164c0d2d3934e72c07",
+				"dweb:/ipfs/QmQpQW4Y1niNnvAzkBchGvP4shPN4qmwF4HtzBWz9vprz9"
+			]
+		}
+	},
+	"version": 1
+}
